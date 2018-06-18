@@ -12,5 +12,5 @@ This is open source project of openAcademy Android Application.
 
 ## Contributing Guidelines
 
-For Contributing please go through - [Contributing Guidelines](https://github.com/UdacityAndroidBasicsScholarship/wmn-safety/blob/development/CONTRIBUTING.md)
+For Contributing please go through - [Contributing Guidelines](https://github.com/Paperwrk/openAcademyAndroid/blob/master/CONTRIBUTING.md)
 
