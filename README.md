@@ -26,5 +26,10 @@ OpenAcademy is a platform for providing resources in field of data science and m
 4. You can add your Youtube channel [Here](https://github.com/Praneet460/openAcademyAndroid/blob/master/openacademyapp/lib/model/ytubechannels.dart)
 
 
+## Shots of the Android App
+
+<img src="https://user-images.githubusercontent.com/23660137/41597567-720b96d4-73eb-11e8-8ed7-179c9b265ffd.png" height = "300"/>  <img src="https://user-images.githubusercontent.com/23660137/41597569-72d9ef7a-73eb-11e8-978d-401864375395.png" height = "300"/>  <img src="https://user-images.githubusercontent.com/23660137/41597571-7351976e-73eb-11e8-9847-0cc4eaf9a3ba.png" height="300"/>  <img src="https://user-images.githubusercontent.com/23660137/41597572-73cb39d4-73eb-11e8-807f-6ba7f2fdbb79.png" height="300"/>  <img src="https://user-images.githubusercontent.com/23660137/41597573-7456e18c-73eb-11e8-83e2-2ec6516d3f06.png" height = "300"/>  <img src="https://user-images.githubusercontent.com/23660137/41597574-74eb5452-73eb-11e8-9815-af16ba6a37b7.png" height="300"/>  <img src="https://user-images.githubusercontent.com/23660137/41597579-768809cc-73eb-11e8-9eb9-5f8ef39f644d.png" height="300"/>  <img src="https://user-images.githubusercontent.com/23660137/41597577-75cd0910-73eb-11e8-8263-961c9a333180.png" height="300"/>
+
+
 
 
