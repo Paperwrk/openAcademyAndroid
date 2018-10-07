@@ -7,7 +7,7 @@ This is the offficial repo of openAcademy. Star the repo if you like :)
 
 ### Introduction
 
-This is open source project of openAcademy Android Application.
+This is open source project of openAcademy Android Application made in Flutter
 
 
 ## Contributing Guidelines
